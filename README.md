@@ -1,5 +1,5 @@
 # 💫 About Me:
-❤I am a back-end programmer<br>🐱‍👤Passionate drummer<br>🙌Josué 1:8-9
+❤I am  programmer<br>🐱‍👤Passionate drummer<br>🙌Josué 1:8-9
 
 
 ## 🌐 Socials:
