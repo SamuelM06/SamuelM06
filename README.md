@@ -1,6 +1,38 @@
-# 💫 About Me:
-❤I am  programmer<br>🐱‍👤Passionate drummer<br>🙌Josué 1:8-9
+# 💫👨‍💻 About Me: 
 
+✨ ¡Hola! Soy **Samuel Mena**, desarrollador y analista de datos.  
+Me especializo en construir soluciones que integran **software**, **datos** y **automatización**, transformando información en herramientas útiles para empresas.
+
+---
+
+### 🚀 ¿Qué hago?
+
+🔹 Desarrollo y automatización con **Python**  
+🔹 Procesos **ETL** (Python + SQL Server + SSIS)  
+🔹 Consumo e integración de **APIs empresariales**  
+🔹 Diseño de **pipelines de datos** y cargas automáticas  
+🔹 Construcción de dashboards con **Power BI**  
+🔹 Modelado, limpieza y análisis de datos (**Pandas, SQL**)  
+🔹 Documentación técnica y buenas prácticas
+
+---
+
+### 📈 Lo que me define
+
+💡 Aprendizaje continuo  
+🧠 Pensamiento analítico  
+🛠️ Pasión por resolver problemas  
+🤝 Trabajo en equipo y habilidades de liderazgo  
+🔥 Enfoque en ingeniería de datos y automatización
+
+---
+
+### 🎯 Mi propósito
+
+Seguir fortaleciendo mis habilidades técnicas y aportar a proyectos donde la tecnología y los datos generen impacto real.  
+Siempre abierto a nuevos retos, colaboraciones y oportunidades profesionales.
+
+> _“El éxito no llega por casualidad, sino por disciplina, enfoque y constancia.”_
 
 
 ## 🚀 Pila de tecnología
